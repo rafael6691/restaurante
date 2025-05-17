@@ -43,4 +43,9 @@ python main.py
 ### Disponibilidad de Mesas
 - Consulta en tiempo real de mesas libres para la **fecha** y **hora** específicas.  
 
+## Soporte
+
+Para cualquier duda o error, copia el mensaje de error completo y abre un issue en este repositorio o envíalo por correo a **rortiz12@cuc.edu.co**. ¡Éxitos!
+
+
 
